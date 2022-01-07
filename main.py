@@ -1,3 +1,4 @@
 import random
 
-print("hello")
+a = random.randrange(1, 8)
+print(a)
