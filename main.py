@@ -12,6 +12,12 @@ time.sleep(2)
 print(second_number)
 time.sleep(2)
 print(third_number)
+
+time.sleep(1)
+print("YOUR NUMBER is ", end="")
+print(first_number, end="")
+print(second_number, end="")
+print(third_number)
 #finish
 
 
