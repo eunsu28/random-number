@@ -11,7 +11,6 @@ time.sleep(1)
 print(second_number, end="")
 time.sleep(1)
 print(third_number)
-time.sleep(1)
 #finish
 
 
