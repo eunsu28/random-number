@@ -1,9 +1,9 @@
 import random
 import time
 
-first_number = random.randrange(1, 8)
-second_number = random.randrange(1, 8)
-third_number = random.randrange(1, 8)
+first_number = random.randrange(1, 3)
+second_number = random.randrange(1, 3)
+third_number = random.randrange(1, 3)
 
 print("YOUR NUMBER: ", end="")
 print(first_number, end="")
