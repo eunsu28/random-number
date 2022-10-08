@@ -27,6 +27,6 @@ print(second_number, end="")
 print(third_number)
 #
 
-#finish  끝
+#finish
 
 
